@@ -1,5 +1,5 @@
 {
-  "name": "name-cli",
+  "name": "sameed",
   "version": "1.0.0",
   "bin": {
     "sameed": "index.js"
