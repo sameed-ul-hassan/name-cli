@@ -1,11 +1,7 @@
 {
   "name": "name-cli",
   "version": "1.0.0",
-  "description": "A simple cli that console name",
-  "main": "index.js",
   "bin": {
     "sameed": "index.js"
-  },
-  "author": "Sameed Ul Hassan",
-  "license": "ISC"
+  }
 }
